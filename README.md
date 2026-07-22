@@ -2,15 +2,15 @@
 
 I am a FDE at Lyra! I build cool things to inspire people!
 
-## Current Projects
+**Current Projects**
 - **[Keystone](https://keystone.page/)** — Keystone is a note-taking app built around AI agents, where every model you use reads from the same shared workspace.
 
 
-## Previous Projects
+**Previous Projects**
 - **[LeadFinder](https://www.leadfinder.social)** — Find people publicly complaining about the exact problem your product solves.
 
 
-## Connect
+**Connect**
 [LinkedIn](https://www.linkedin.com/in/ryankennedysec/)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
